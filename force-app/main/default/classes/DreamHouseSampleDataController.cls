@@ -6,5 +6,6 @@ global with sharing class DreamHouseSampleDataController {
         DELETE [SELECT ID FROM broker__c];
         // first
         //second
+        //third
     }    
 }
